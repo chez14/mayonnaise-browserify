@@ -35,7 +35,7 @@
     "bugs": {
         "url": "https://github.com/nathanchapman/mayonnaise.js/issues"
     },
-    "homepage": "https://github.com/nathanchapman/mayonnaise.js#readme",
+    "homepage": "https://github.com/chez14/mayonnaise-browserify#readme",
     "dependencies": {
         "casual-browserify": "^1.5.19-2"
     },
