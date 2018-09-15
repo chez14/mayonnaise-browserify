@@ -2,6 +2,8 @@
 
 JavaScript fake data generator, courtesy of Patrick Star.
 
+Forked from [nathanchapman](https://github.com/nathanchapman/mayonnaise.js), make it broserfifyable.
+
 <img width="368" src="https://i.ytimg.com/vi/d1JA-nh0IfI/hqdefault.jpg">
 
 ## Installation

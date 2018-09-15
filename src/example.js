@@ -1,4 +1,4 @@
-const mayonnaise = require('mayonnaise.js');
+const mayonnaise = require('mayonnaise-browserify');
 
 console.log('sentence', mayonnaise.sentence);
 console.log('sentences(3)', mayonnaise.sentences(3));

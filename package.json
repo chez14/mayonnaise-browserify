@@ -1,5 +1,5 @@
 {
-    "name": "mayonnaise.js",
+    "name": "mayonnaise-browserify",
     "version": "1.1.0",
     "license": "MIT",
     "description": "JavaScript fake data generator, courtesy of Patrick Star.",
@@ -25,18 +25,19 @@
         "random",
         "mock",
         "mocking",
-        "generator"
+        "generator",
+        "browserify"
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nathanchapman/mayonnaise.js.git"
+        "url": "git+https://github.com/chez14/mayonnaise-browserify.git"
     },
     "bugs": {
         "url": "https://github.com/nathanchapman/mayonnaise.js/issues"
     },
     "homepage": "https://github.com/nathanchapman/mayonnaise.js#readme",
     "dependencies": {
-        "casual": "^1.5.19"
+        "casual-browserify": "^1.5.19-2"
     },
     "devDependencies": {
         "eslint": "^4.19.1",
